@@ -11,7 +11,10 @@ namespace git_hub
     {
         static void Main(string[] args)
         {
-
+            while (true) 
+            {
+            
+            }
 
         }
     }
